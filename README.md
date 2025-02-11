@@ -43,9 +43,8 @@ The challenge will cover a range of topics, including (but not limited to):
 
 I'm excited to embark on this 30-day journey and learn alongside you.  Feel free to connect with me!
 
-* **GitHub:** [[Your GitHub Profile URL](https://github.com/kindness-ok)]
-* **LeetCode:** [Your LeetCode Profile URL (https://leetcode.com/u/Kindness-Ok/))]
-* **Other Platforms (Optional):**  [Links to your other profiles, e.g., Twitter, LinkedIn]
+* **GitHub:** [Here(https://github.com/kindness-ok)]
+* **LeetCode:** [Here(https://leetcode.com/u/Kindness-Ok/))]
 
 ## License
 
