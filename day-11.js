@@ -18,4 +18,5 @@ const memoizedFn = rememberIt(function (a, b) {
 memoizedFn(2, 3) // 5
 memoizedFn(4, 5) // 9
 memoizedFn(4, 5) // 5
+memoizedFn(5, 6) // 5
 console.log(callCount) // 1
