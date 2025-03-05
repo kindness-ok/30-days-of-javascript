@@ -9,3 +9,4 @@ const filter = (arr, fn) => {
 };
 
 console.log(filter([11, 1, 2, 3, 4], function sum(n) { return n > 2 }))
+console.log(filter([11, 1, 2, 3, 4], function sum(n) { return n > 10 }))
