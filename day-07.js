@@ -11,3 +11,4 @@ const reduce = (nums, fn, init) => {
 };
 
 console.log(reduce([1, 2, 3, 4], function sum(accum, curr) { return accum + curr * curr; }, 100))
+console.log(reduce([1, 2, 3, 4], function sum(accum, curr) { return accum + curr; }, 0))
